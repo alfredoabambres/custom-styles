@@ -8,6 +8,12 @@ https://userstyles.org/styles/105362/google-hangouts-minus-plus
 https://github.com/alfredoabambres/custom-styles/blob/master/google-hangours-minus-plus.css
 */
 
-body {}
+.Of, #content, .pzc { 
+  display: none !important; 
+}
+
+.GSc { 
+  top: 0 !important; 
+}
 
 }
